@@ -1,0 +1,5 @@
+print("well come to Lisa's calculator !")
+num1= int(input("2:"))
+num2= int(input("4:"))
+print("add:",num1+num2)
+print("subtract,:"num1-num2)
